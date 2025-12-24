@@ -1,11 +1,6 @@
-<div align="center">
+ABC Fun — Learn Letters with Animation
 
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
+Project by: Muhammad Rashid
+University: MNS University of Agriculture Multan Pakistan
 
-  <h1>Built with AI Studio</h2>
-
-  <p>The fastest path from prompt to production with Gemini.</p>
-
-  <a href="https://aistudio.google.com/apps">Start building</a>
-
-</div>
+ABC Fun is a fun, interactive app for toddlers to learn the alphabet (A–Z) with animations, sounds, and touch interactivity. Each letter is accompanied by a colorful animated object and pronunciation to make learning engaging and enjoyable. The app works on Android, iOS, and tablets with a bright, kid-friendly interface.
